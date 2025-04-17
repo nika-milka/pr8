@@ -1,10 +1,10 @@
 ### 1. Установка 
 1. Клонируйте репозиторий на свой локальный компьютер:
    
-   ```git clone  https://github.com/nika-milka/pr5.git```
+   ```git clone  https://github.com/nika-milka/pr8.git```
 
 2. Перейдите в директорию проекта:
 
-   ``` cd pr5 ```
+   ``` cd pr8 ```
 ### 2. Запуск
 1. Откройте файл `index.html` в браузере.
