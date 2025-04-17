@@ -1,0 +1,32 @@
+{
+  "name": "Todo PWA",
+  "short_name": "Todo",
+  "description": "Прогрессивное веб-приложение для управления задачами",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#4CAF50",
+  "orientation": "portrait",
+  "icons": [
+      {
+          "src": "icons/icon-72x72.png",
+          "sizes": "72x72",
+          "type": "image/png"
+      },
+      {
+          "src": "icons/icon-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+      },
+      {
+          "src": "icons/icon-188x188.png",
+          "sizes": "188x188",
+          "type": "image/png"
+      },
+      {
+          "src": "icons/icon-300x300.png",
+          "sizes": "300x300",
+          "type": "image/png"
+      }
+  ]
+}
